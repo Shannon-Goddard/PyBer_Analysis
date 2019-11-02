@@ -18,7 +18,7 @@ By the end of this module, we will be able to:
 Bubble charts are useful when presenting financial, population, and weather data because you can add a third and fourth factor to convey more information.
 The first two factors are the x- and y-axes data, which we have been using quite frequently. By changing the “dot” into a “bubble,” we are adding a third factor: size. If there is more than one dataset that uses the same axes, we can change the color of each marker for each dataset, which will add a fourth factor: color.
 
-
+If we look at the final product, we can see that the bubble chart contains three different scatter plots, one for each type of city.
 
 ![Fig2](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig2.png)<br/>
 we can visualize the summary statistics and determine if there are any outliers by using box-and-whisker plots.
@@ -34,11 +34,13 @@ The average number of drivers in rural cities is nine to four times less per cit
 ![Fig5](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig5.png)<br/>
 Pie charts allow us to depict percentages of categories as wedges of a pie. One limitation of pie charts is that they can only represent one dataset or category. However, pie charts do have a high visual appeal. We can make them even more visually appealing by choosing vibrant colors and giving each pie wedge a label.
 
-If we look at the final product, we can see that the bubble chart contains three different scatter plots, one for each type of city.
+The first pie chart we created showcases the percentage of the overall fares for each type of city, where each pie wedge represents the percentage of total fares for each city type
 
 ![Fig6](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig6.png)<br/>
+The second pie chart we created showcases the percentage of total rides for each type of city, where each pie wedge represents the percentage of total rides for each city type.
 
 ![Fig7](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig7.png)<br/>
+The final pie chart is the percentage of the total drivers for each city type, where each pie wedge is the percentage of total drivers. 
 
 ## Challenge Overview
 We've been asked by our CEO to create an overall snapshot of the ride-sharing data. In addition to our scatter and pie charts, she would like to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
@@ -74,4 +76,5 @@ The summary DataFrame shows that the Rural Average Fare per Ride and Average Far
 
 
 Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
-![Fig8](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig8.png)
+![Fig8](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig8.png)<br/>
+The multiple line graph tells us about the fares for each city type over time. Urban city types have the maximum fares. Suburban cities have the median fares. While, Urban city types have the minimum. Although, all three have these different levels of fares, all three have a correlating trend through out the months.
