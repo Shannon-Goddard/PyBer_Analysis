@@ -15,6 +15,10 @@ By the end of this module, we will be able to:
 
 ## Summary
 ![Fig1](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig1.png)
+Bubble charts are useful when presenting financial, population, and weather data because you can add a third and fourth factor to convey more information.
+The first two factors are the x- and y-axes data, which we have been using quite frequently. By changing the “dot” into a “bubble,” we are adding a third factor: size. If there is more than one dataset that uses the same axes, we can change the color of each marker for each dataset, which will add a fourth factor: color.
+
+
 
 ![Fig2](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig2.png)
 
