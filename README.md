@@ -14,7 +14,7 @@ By the end of this module, we will be able to:
 - Software: Anaconda 4.7.12, PythonData, Jupyter Notebook, Pandas, SciPy, and NumPy
 
 ## Summary
-
+![chart](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig1.png)
 
 ## Challenge Overview
 We've been asked by our CEO to create an overall snapshot of the ride-sharing data. In addition to our scatter and pie charts, she would like to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
