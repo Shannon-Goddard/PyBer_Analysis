@@ -58,3 +58,4 @@ Create a summary DataFrame that showcases the following:
 The summary DataFrame shows that the Rural Average Fare per Ride and Average Fare per Driver is significantly higher than that of the Suburban and Urban city types. This can be correlated to the Total Rides and Total Drivers being significantly less than that of the Suburban and Urban city types.
 
 Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
+![Fig8](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig8.png)
