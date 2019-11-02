@@ -24,7 +24,7 @@ By the end of this module, we will be able to:
 
 ![Fig5](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig5.png)
 
-![Fig6]()
+![Fig6](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig6.png)
 
 ![Fig7]()
 
