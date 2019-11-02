@@ -20,17 +20,25 @@ The first two factors are the x- and y-axes data, which we have been using quite
 
 
 
-![Fig2](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig2.png)
+![Fig2](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig2.png)<br/>
+we can visualize the summary statistics and determine if there are any outliers by using box-and-whisker plots.
 
-![Fig3](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig3.png)
+There is one outlier in the urban ride count data. Also, the average number of rides in the rural cities is about 4- and 3.5-times lower per city than the urban and suburban cities, respectively.
 
-![Fig4](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig4.png)
+![Fig3](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig3.png)<br/>
+From the combined box-and-whisker plots, we see that there are no outliers. However, the average fare for rides in the rural cities is about $11 and $5 more per ride than the urban and suburban cities, respectively.
 
-![Fig5](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig5.png)
+![Fig4](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig4.png)<br/>
+The average number of drivers in rural cities is nine to four times less per city than in urban and suburban cities, respectively.
 
-![Fig6](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig6.png)
+![Fig5](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig5.png)<br/>
+Pie charts allow us to depict percentages of categories as wedges of a pie. One limitation of pie charts is that they can only represent one dataset or category. However, pie charts do have a high visual appeal. We can make them even more visually appealing by choosing vibrant colors and giving each pie wedge a label.
 
-![Fig7](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig7.png)
+If we look at the final product, we can see that the bubble chart contains three different scatter plots, one for each type of city.
+
+![Fig6](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig6.png)<br/>
+
+![Fig7](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig7.png)<br/>
 
 ## Challenge Overview
 We've been asked by our CEO to create an overall snapshot of the ride-sharing data. In addition to our scatter and pie charts, she would like to see a summary table of key metrics of the ride-sharing data by city type, and a multiple-line graph that shows the average fare for each week by each city type.
