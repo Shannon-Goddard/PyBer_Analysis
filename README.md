@@ -71,9 +71,7 @@ Create a summary DataFrame that showcases the following:
 | Suburban       | 625            | 490            | $19,356.33     | $30.97         | $39.50         | 
 | Urban          | 1,625          | 2,405          | $39,854.38     | $24.53         | $16.57         | 
 
-The summary DataFrame shows that the Rural Average Fare per Ride and Average Fare per Driver is significantly higher than that of the Suburban and Urban city types. This can be correlated to the Total Rides and Total Drivers being significantly less than that of the Suburban and Urban city types.
-
-
+The summary DataFrame shows that the Rural Average Fare per Ride and Average Fare per Driver is significantly higher than that of the Suburban and Urban city types. This can be contributed to the Total Drivers being significantly less than that of the Suburban and Urban city types. Cause and effect would suggest less Total Drivers would result in less Total Rides. While, supply and demand would suggest less Total Drivers would result to higher Average Fare per Driver. 
 
 Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
 ![Fig8](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig8.png)<br/>
