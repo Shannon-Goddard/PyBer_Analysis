@@ -42,11 +42,13 @@ We've been asked by our CEO to create an overall snapshot of the ride-sharing da
 ## Challenge Summary
 Create a summary DataFrame that showcases the following:
 
-  -Total Rides
-  -Total Drivers
-  -Total Fares
-  -Average Fare per Ride
-  -Average Fare per Driver
+  - Total Rides
+  - Total Drivers
+  - Total Fares
+  - Average Fare per Ride
+  - Average Fare per Driver
+
+
 
 ### Summary DataFrame <br/>
 |                | Total Rides    | Total Drivers  | Total Fares    | Average Fare per Ride| Average Fare per Driver |  
@@ -56,6 +58,8 @@ Create a summary DataFrame that showcases the following:
 | Urban          | 1,625          | 2,405          | $39,854.38     | $24.53         | $16.57         | 
 
 The summary DataFrame shows that the Rural Average Fare per Ride and Average Fare per Driver is significantly higher than that of the Suburban and Urban city types. This can be correlated to the Total Rides and Total Drivers being significantly less than that of the Suburban and Urban city types.
+
+
 
 Create a Multiple-Line Plot for the Sum of the Fares for Each City Type
 ![Fig8](https://github.com/Shannon-Goddard/PyBer_Analysis/blob/master/analysis/Fig8.png)
